@@ -1,4 +1,7 @@
 # SkyCofl-PREM
+How do i download this?
+- Go to releases and download the LATEST release or build it yourself using the src file
+
 What does this mod do? 
 - It's an premium version of coflsky (cofl net mod)
 
